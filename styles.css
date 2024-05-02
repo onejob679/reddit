@@ -1,0 +1,9 @@
+.first,
+.viewSource,
+.embed-comment,
+.comment-save-button,
+.saveComments,
+.report-button,
+.reply-button {
+    display: none;
+}
